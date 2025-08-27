@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Junun MP3</string>
+    
+    <!-- Player strings -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="stop">Stop</string>
+    
+    <!-- Music info -->
+    <string name="unknown_title">Unknown Title</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+    <string name="no_music_found">No music found</string>
+    <string name="loading_music">Loading music…</string>
+    
+    <!-- Time format -->
+    <string name="time_format">%d:%02d</string>
+    <string name="time_format_with_hours">%d:%02d:%02d</string>
+    
+    <!-- Permissions -->
+    <string name="permission_storage_title">Storage Permission</string>
+    <string name="permission_storage_message">Junun MP3 needs storage permission to access your music files</string>
+    <string name="permission_notification_title">Notification Permission</string>
+    <string name="permission_notification_message">Allow notifications to control music playback from the notification panel</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permissions_required">Permissions are required to access music files</string>
+    
+    <!-- Playlist strings -->
+    <string name="playlist">Playlist</string>
+    <string name="playlists">Playlists</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="playlist_description">Description</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="remove_from_playlist">Remove from Playlist</string>
+    <string name="favorites">Favorites</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="most_played">Most Played</string>
+    
+    <!-- Menu strings -->
+    <string name="more_options">More options</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort by</string>
+    
+    <!-- Sort options -->
+    <string name="sort_by_title">Title</string>
+    <string name="sort_by_artist">Artist</string>
+    <string name="sort_by_album">Album</string>
+    <string name="sort_by_duration">Duration</string>
+    <string name="sort_by_date">Date Added</string>
+    
+    <!-- Error messages -->
+    <string name="error_playing_music">Error playing music</string>
+    <string name="error_loading_music">Error loading music</string>
+    <string name="error_no_music_app">No music app found</string>
+    <string name="file_not_found">File not found</string>
+    
+    <!-- Notification -->
+    <string name="notification_channel_name">Music Playback</string>
+    <string name="notification_channel_description">Shows currently playing music with playback controls</string>
+    
+    <!-- Content descriptions -->
+    <string name="album_art">Album art</string>
+    <string name="play_pause_button">Play/Pause button</string>
+    <string name="next_button">Next button</string>
+    <string name="previous_button">Previous button</string>
+    <string name="shuffle_button">Shuffle button</string>
+    <string name="repeat_button">Repeat button</string>
+    <string name="seek_bar">Seek bar</string>
+    
+    <!-- Statistics -->
+    <string name="total_songs">%d songs</string>
+    <string name="total_duration">Total: %s</string>
+    <string name="song_count">%d song</string>
+    <string name="songs_count">%d songs</string>
+    
+    <!-- Actions -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="info">Info</string>
+    
+    <!-- About -->
+    <string name="version">Version</string>
+    <string name="app_version">1.0.0</string>
+    <string name="developed_by">Developed by Junun Team</string>
+    <string name="app_description">A simple and elegant MP3 player for Android</string>
+</resources>
